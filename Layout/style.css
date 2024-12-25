@@ -1,0 +1,55 @@
+*
+{
+    margin:0%;
+    padding:0%;
+    box-sizing: border-box;
+}
+.navbr
+{
+    height:60px;
+    width:100%;
+    background-color: black;
+}
+.logo h1
+{
+    color: white;
+    display: flex;
+    align-items: center;
+}
+.hompage
+{
+    height: 250px;
+    width: 80%;
+    margin: auto;
+}
+.hompage img
+{
+    height: 250px;
+    width: 100%;
+}
+.gallery
+{
+    height: 350px;
+    width: 100%;
+    margin-top: 5%;
+}
+.gallerycontaier
+{
+    height: 350px;
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.gallerycontaier img
+{
+    height:250px;
+    width: 30%;
+}
+.footr
+{
+    height:60px;
+    width:100%;
+    background-color: black;
+}
